@@ -12,7 +12,7 @@
       "date": "2026-07-31T11:03:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 247000,
+      "views": 262000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +54,7 @@
       "date": "2026-07-31T11:06:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 238000,
+      "views": 252000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +73,7 @@
       "date": "2026-07-31T11:06:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 249000,
+      "views": 262000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +91,7 @@
       "date": "2026-07-31T11:16:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 255000,
+      "views": 268000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +109,7 @@
       "date": "2026-07-31T11:44:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 259000,
+      "views": 275000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +127,7 @@
       "date": "2026-07-31T16:04:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 172000,
+      "views": 205000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +145,7 @@
       "date": "2026-07-31T16:04:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 178000,
+      "views": 213000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +163,7 @@
       "date": "2026-07-31T16:05:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 190000,
+      "views": 225000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +181,7 @@
       "date": "2026-07-31T16:06:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 193000,
+      "views": 228000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +199,7 @@
       "date": "2026-07-31T16:33:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 188000,
+      "views": 238000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +211,7 @@
       "date": "2026-07-31T18:30:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 58500,
+      "views": 163000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +242,25 @@
           "url": "https://cdn1.telesco.pe/file/RX-THjEicuAMdtQWBGvzci2dMlK58JMLpNYm21262CjwFi9FiERcmG6Tf2LHIHmiprXC7CYCg6i2hmdQncX3p63yGYMtEjDpbuPneJR7ztX0_zUoD43za4L1OwXYk_YzIxOeJhn8llJkJlJIm6pFZ-t5x4SOPVjzD4D521e_gTjohIMlsl8UAsR7a7wpt4_yuAXjQiRV_rmc1FEqswrkNdDBZQrWgypABHzULo9MsdlLM825iU_6AZWBg20AsT3r1uxmujLAZNxd0UF3iJd11B0DnJ27GhQeW7YQRmAgYtS22IJZHWwPE9cI0e8Z-Gktv6q9G1WaZAZTUXSSURsYAg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "خبرگزاری رویترز روز جمعه ۹مرداد۱۴۰۵ \u003ca href=\"https://www.reuters.com/investigations/illicit-iranian-gambling-network-helped-pull-off-4-billion-sanctions-dodge-2026-07-31/?utm_source=chatgpt.com\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگزارشی تحقیقی\u003c/a\u003e منتشر کرده، از استفاده سپاه از شبکه قمار غیرقانونی ایران که با آن میلیاردها دلار را به رغم تحریم‌ها جابه‌جا می‌کند.در این گزارش به یک صرافی ارز دیجیتال مستقر در دوبی اشاره شده که  به مرکزی برای جابه‌جایی پول‌های غیرقانونی ایران تبدیل شده است.\u003cbr/\u003e\u003cbr/\u003eدر گزارش رویترز صرافی مذکور «شل‌بیت» معرفی شده و تایید شده است که این صرافی، یک شبکه گسترده قمار را که توسط دو اینفلوئنسر سرشناس و بین‌المللی در شبکه‌های اجتماعی اداره می‌شود، به فعالیت‌های استخراج بیت‌کوین و بانک مرکزی ایران مرتبط می‌کند.\u003cbr/\u003e\u003cbr/\u003eبنابر گزارش منتشر شده، «شل‌بیت» صدها میلیون دلار ارز دیجیتال را به «بایننس»، بزرگ‌ترین صرافی ارز دیجیتال جهان، منتقل کرده است. دو شرکت تحقیقاتی حوزه ارزهای دیجیتال و یک تحلیلگر مستقل مدارکی ارایه کرده‌اند نشان می‌دهد نشانی ثبت‌شده صرافی بدون مجوز «شل‌بیت» دفتری در بالای یک هتل ارزان‌قیمت در محله‌ای معمولی و نه‌چندان مطرح در دوبی است. این صرافی توسط یک ایرانی مقیم خارج از کشور اداره می‌شود. رویترز اطلاعات ارایه شده در این زمینه را تایید کرده است.\u003cbr/\u003e\u003cbr/\u003eدر بخش دیگری از این گزارش آمده است که یکی از مشتریان اصلی «شل‌بیت»، یک شبکه قمار فارسی‌زبان متشکل از بیش از ۲ هزار وب‌سایت است که توسط دو اینفلوئنسر مشهور ایرانی در شبکه‌های اجتماعی تبلیغ و اداره می‌شود. گفته شده که این دو ارتباطاتی در سطوح بالای حکومت ایران دارند. \u003cbr/\u003e\u003cbr/\u003eیکی از آن‌ها در یک ویلای گران‌قیمت در مادرید فعالیت می‌کند و دیگری تا همین اواخر در یک هتل لوکس در هنگ‌کنگ مستقر بود.\u003cbr/\u003e\u003cbr/\u003eهر دو اینفلوئنسر اشاره شده و همچنین فرد اصلی اداره کننده صرافی «شل‌بیت» در سال ۲۰۲۳ در ایران به اتهام مشارکت در یک پرونده قمار غیرقانونی، محکوم شدند.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eمطابق قوانین جمهوری اسلامی «قمار کردن» امری غیرقانونی است و مجازات‌های حبس و شلاق برای مرتکبان به‌دنبال دارد با این‌همه گزارش رویترز تایید می‌کند که این شبکه قمار تازه شناسایی شده به سیستم پرداخت آنلاین ایران که مستقیما تحت نظارت بانک مرکزی است دسترسی دارد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eشل بیت بر اساس گزارش رویترز در مرکز عملیاتی است که شبکه قمار، بانک مرکزی و دیگر نهادهای تحریم‌شده ایرانی را به بازارهای جهانی ارزهای دیجیتال مرتبط می‌کند.\u003cbr/\u003e\u003cblockquote\u003eیکی از چهره‌های اصلی این شبکه قمار، «ساشا سبحانی»، پسر یک دیپلمات و سفیر پیشین ایران و دیگری «پویان مختاری»، یک چهره مشهور شبکه‌های اجتماعی و خواننده است که پس از اخراج از دوبی در اواخر ماه آوریل، مدتی بین هتل‌های لوکس هنگ‌کنگ جابه‌جا می‌شد.  \u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eپویان مختاری اخیرا و در جریان جنگ آمریکا و اسراییل با انتشار ویدیویی گفت که مخالف جمهوری اسلامی نیست و دچار «تحول فکری» شده است.\u003cbr/\u003e\u003cbr/\u003eتحقیقات رویترز آشکار می‌کند که سپاه پاسداران سال‌ها پیش کنترل بزرگ‌ترین وب‌سایت‌های قمار قابل دسترس در ایران را به دست گرفته و از آن زمان تاکنون از این وب‌سایت‌ها برای انتقال پول به خارج از کشور استفاده کرده است.\u003cbr/\u003e@\u003ca href=\"https://t.me/VahidHeadline/313607\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eVahidHeadline\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/VahidOnline\" target=\"_blank\"\u003e@VahidOnline\u003c/a\u003e",
+      "date": "2026-07-31T19:06:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 128000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Vahid Online وحید آنلاین",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Bc5klE3kZqrPXhqRhs9RykW_HIwmfxkvf0AeKviNeiY5PYyQ_BEpXuprtI6ymxnHdSasju3kmHZAZ-_B2bmVyqDHZ1YJo0LwDnJlpV-GDaBpugKUV57w9pBz_jR0iXncg6_k5dP84PjY2eX8pCahcExjb-KRzwuJaUUbFcK2Kpe4uetP7iHGigSVJjbJgJ58r61CmxVaCLUIW0u-esKbQmmu6z7G-_VWBZX2skBzxuxVLZ0I2Pfn4x19ZNLNVr7qfvzGvsawqUNWjuOhcnP_Q_GRhg4EfdIkmu6DT_CTcS4Fry9FcRlL-uVWJH2jNLh14ToQy9nzKw9MHLKKe9qVyw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785523994
+  "last_updated": 1785529146
 }
