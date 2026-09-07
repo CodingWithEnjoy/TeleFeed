@@ -8,83 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اتحادیه اروپا با همکاری سازمان ETSI یک استاندارد امنیتی جدید برای VPNها با نام EN 304 620 معرفی کرده که در چارچوب قانون Cyber Resilience Act قرار می‌گیره. بر اساس این استاندارد، VPNهایی که در بازار اروپا عرضه میشن باید حداقل استانداردهای مشخصی در زمینه رمزنگاری، احراز هویت، مدیریت کلیدها و مقابله با آسیب‌پذیری‌های امنیتی داشته باشن و این موارد هم قابل بررسی و ممیزی باشه.\u003cbr/\u003eالبته این مقررات به معنی ممنوعیت VPN یا محدود کردن دسترسی به اونها نیست؛ هدفشون اینه که VPNهای ناامن و بی‌کیفیت از بازار کنار گذاشته بشن و سطح امنیت سرویس‌های موجود بالاتر بره.\u003cbr/\u003e\u003cbr/\u003eشرکت‌هایی مثل NordVPN، Surfshark، Cisco، Google، Palo Alto Networks و Airbus هم در تدوین این الزامات مشارکت داشتن. از طرف دیگه، ارائه‌دهندگان VPN باید آسیب‌پذیری‌های جدی و فعال رو سریع‌تر گزارش و برطرف کنن.\u003cbr/\u003eدر نهایت، اتحادیه اروپا میخواد حداقل سطح امنیت محصولات دیجیتال، از جمله VPNهارو در بازار خودش بالا ببره و اجرای کامل الزامات این قانون تا پایان ۲۰۲۷ دنبال میشه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e techradar\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-08-23T04:19:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/mDOCZkBP7yGVvNFoEW_for63P3Ex945TxNBQtY-uzb1rNxRHWrOmvKGZdtNF7BCiwRiv1ejQmFw9lbF6hHhu4hjaIf609CRJN1_IvpT9Oa-iwp5rsv5ytWa_fgELaCLrZgjQHUpZQgFmJ7FMEJfH_JctKkR-6nO6gLGnhrP94_f8YcbRfrA66X7cmn2rlmjzUXPq72sFJaseIcQNsBH4Ae_yvSxCT2GRmgnK93p8ya7H-LA4pEsAe5H-mMoshLq_v0__48-QGQmSldGmX2HZUe3k3HE5nzhyDwiC7KDzzq3UWHgROHwseshVHiO0g2mOOwzpgBT2dPfro7IuzO6abg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "در کدهای نسخه دسکتاپ از تلگرام نشانه‌هایی از یک پروکسی آزمایشی جدید با نام WEB مشاهده کردن، که از WebView و ارتباطات مبتنی بر HTTPS/WebSocket استفاده می‌کنه. این قابلیت هنوز در حال توسعه هست و مشخص نیست نسخه نهایی اون دقیقاً با چه معماری و مشخصاتی منتشر بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e telelakel\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-08-23T04:34:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DW-y67YYaXg_bW9ZlP0XeYsFWMjDSb9kMln-J9vea1RL1G512BqHpkUq1S-6tt7IsUm3BYHKHfpqXSJbb4OYs52j7solZdHSNMxMxIQljsSExKCfv0lbU4ZSu1s6ml2P2Ou9eYQLZONqYYQphsNQiB6OHMJWoTiINlPvRHd5zdfRx60n18U6MQQTgwsU4gmClvglEDaYFqq-5b161qCW9qwVkoaNZmPLaq-MlBvJvkjq90Skh1jqO0zNFavpW8TVeiprdcgnp_FN4ZiEd4CDc9GqB11vsqzkqzlhdtJbHesTn7bp68zyaypNUDnAcBw6MjBKvwb1OZ2M3CIbiR9CeQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تلگرام داره روی یک نوع WEB Proxy جدید کار می‌کنه که ترافیک معمول MTProxy رو از طریق یک WebView داخلی و روی HTTPS یا WebSocket منتقل می‌کنه. در سمت سرور هم این ارتباط‌ها دوباره از هم جدا میشن و هرکدوم به یک MTProxy معمولی وصل میشن.\u003cbr/\u003e\u003cbr/\u003eاین روش به سیستم‌عامل خاصی وابسته نیست و نکته جالب اینه که دامنه این WEB Proxy مثل یه سایت HTTPS معمولی دیده میشه و فقط درخواست‌هایی که اطلاعات مخصوص پروکسی رو داشته باشن، صفحه واسط (Bridge Page) مربوط به پروکسی رو دریافت می‌کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/telegramdesktop/tproxy-server\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/telegramdesktop/tproxy-server\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-08-23T15:54:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/EVPbzKkXFht2foFDqsqR6ALsdKBbz2UoOQg4yGaerVjk6HjBhtjlRc08QgZc52B5-xxgCTa0H0atn5CWpQi1MYMY1esmPJyGlKxHGFmdSQnjQeVyaaShAXbOI1inZjp8LF1lS2bt9bsQsR_ylqZhjr4ybYeEOv0FImlnONYkDijkjP3qyjcyb8cjWWsk2vqsmB_kBMVarhmgFlQTC3oUh9mRFyXwLQzKF_kDkmSJnwpTx74V9tlu-5ANTZa6E3kQlxyXpHa9NGoR3a2uNhecevMq3tbG-4-4aGrb-mONcbqtQb8LED42qe-uRv9nKoXatSJ0QubwgEqHjdtdzFi0IQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "رئیس پلیس امنیت اقتصادی فراجا از کشف ۹۹۷ دستگاه ماهواره استارلینگ در ۴ ماه نخست امسال خبر داد و گفت: در این رابطه ۱۶۳ نفر دستگیر و ۱۵ دستگاه خودروی حامل تجهیزات استارلینک توقیف شده است. /ایرنا\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-08-23T16:00:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/X3dFpRVlmsKQ8xcIWoncLeVKgc6NXpUDl9pKw-geFwdpuDmfqQrAggr4Ij55wGJuquYkIM05LQJ4tD5oApibnQIDcq4Ho7aBo8-3vqZqTwF81YRkxsqVs5D4WEzwkvtxLCrziO9i_E-yEZf9N51KvFZK7Xyc__o0Ly2sIHSVqnzEJxP5-pswOIsbPVeSd23HyTakcf9iWDdSKLFaV8AiJHuh2r8hC35tTwP9Pst4qssFuA6U1kDUpe_dJYxjYWaMazHOAyjzvqH0zpmHDFcAFd385zDc_7i8ievhzx5vhbf99diQ3Z7pST-Vf7DmsVp800LRGiKzng2LU33Jb5lPcw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اسپیس‌ایکس می‌خواد Starlink Mobile رو به یک رقیب جدی برای اپراتورهای موبایل تبدیل کنه. این شرکت در گزارش مالی جدیدش اعلام کرده قصد داره سرویس اتصال مستقیم گوشی به ماهواره رو گسترش بده و در کنار شبکه ماهواره‌ای، از زیرساخت‌های زمینی هم برای ارائه خدمات موبایل استفاده کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e satellitetoday\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-08-23T16:12:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43700,
+      "views": 43900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +30,7 @@
       "date": "2026-08-25T04:24:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40200,
+      "views": 40400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +42,7 @@
       "date": "2026-08-30T07:50:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +60,7 @@
       "date": "2026-08-30T08:00:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +72,7 @@
       "date": "2026-08-30T08:04:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +90,7 @@
       "date": "2026-08-30T08:11:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
+      "views": 30100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +108,7 @@
       "date": "2026-08-30T08:14:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +126,7 @@
       "date": "2026-08-30T08:22:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34800,
+      "views": 35000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +144,7 @@
       "date": "2026-08-31T15:17:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33000,
+      "views": 33300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +156,7 @@
       "date": "2026-09-03T14:39:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +174,7 @@
       "date": "2026-09-03T15:17:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +192,7 @@
       "date": "2026-09-05T06:27:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +210,7 @@
       "date": "2026-09-06T03:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
+      "views": 18200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +222,7 @@
       "date": "2026-09-06T03:40:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 16100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +234,7 @@
       "date": "2026-09-06T03:47:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 16200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +242,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/mBnkWTCMpSxNp5fbbP7cgFT6FXlV0WFC7l9xUX1xzh_ekgmP8osDPJPzUXkz1bzl9vNtC9-y7slT0_2p17yJtqlB8HxZ6CvVoLcATOqttUxRjW2HmCBnc8hU98ocVrFTTJ2n4XTQXvBQS5E_pa5zp00JWKvK1JwxzUpoLZ6rzQjW42WRvUd5jOoTyfaeNx_wUhifbaFpk8VWrqUrCzhPgP4kuWaauk8MyupXT3q3Cm73OofeyRhr2BSsO6bygOQzETkj9dXKo8-G4rLoxlAKORYvTLHXpJGNg-huWGWT_UObvt8VdDnF7nkPIgcbX5aIcz0g5DvSuW6xHP6gEJGUSw.jpg"
+          "url": "https://cdn1.telesco.pe/file/gs4CdB10b7qlx3pdCT5IZgmxPK-tfCgw_ILnJ_JElgzIdYA8KpxRuZIj8we7uow6C0lFcSD2c8L_z01ziYJ6jIG6R4NZcW43ba8Lu57y8fyA5W3LhhYeR8q79cTuVrpRQfCVZzzc-9VOby-oDZ1ml4FWTo5wi111mViVTL-qgZFL6PrlAjyfD5D-MnIU6qVhbewTIvNKkEi0r0OzcSGvZoPV4lMqnAM9SzaMEBPXC9D3k4nEoD7X-N5TkVfQaUanIQpvLUJ-71vcqAuqSnsmdhoMKO-Lz2uf1r94zz-Rpxie4c34wGPun53v2qTV8eEybc14jfOmrDPTvTiqe4Vu4g.jpg"
         }
       ]
     },
@@ -324,7 +252,7 @@
       "date": "2026-09-06T04:09:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,10 +260,82 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/j1wUwSlzFInDAXdrTS5p23SlgvaInk0zvZcHHr5dePGyqJmJaEYC_lLNUalOsVO7-HO9idtkrTZArRjL3kS75pI6gHx6qnPvASUtFDMd6LSBun22_SQR2f9q80v2y6tEazKW4zOfYhBRQxymK1fo4kFbUobpboaFWXsXW-TxXsFo-ZNTavc4V9csGvMAD_xxDO497lCPw5pqziN9ibEEsJDax5HTqSYCDTeARKP6LIkjKbrHRPmfSCWKKj8Lut24McX2VkePfZhmFOkrjO0cHbKkT4EMfoUy-vBsDU-5zsSgwxh93IxB_BLEa-R_Yz_7t3x4iNqgeWlTos4pc28Ogg.jpg"
+          "url": "https://cdn1.telesco.pe/file/wCG3OKZkHtH67AAfWzY_52oI7SKGbdlLvkQOxDgGUhjb18jodi_u_0iVbR5kbvPjfb2WxK8aFNNWqOhepecB-D8ccltobvEWDfZI_mMks8qfr22y6WsdaP678BMcGTrEypdKN_6Pe6V9J7Lq1J-KnLjgTG3mL3jX2GRHMm0pO-TeTPodoSxe14F1SS82QLmbQWM0piPAeLbpRZm-ChvOnFd8dtNTW9Sh1zLyM6sBC1loPVbjB6y5YQOcRSmVg97jFQJtZYt4gLzoKO1z3o5YwakDxYEss4AnyHjLsAYOB0CDBbDUsbH7_gdu05h2AYM7fXfJdJR_XyO1Io5txPNmSg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "چند آسیب‌پذیری بحرانی در RouterOS پیدا شده که بعضی از اونها در قالب زنجیره‌ای به اسم MikroTrick در حملات واقعی هم مورد سوءاستفاده قرار گرفتن و می‌تونن در شرایطی دسترسی کامل به روتر بدن.\u003cbr/\u003eاز طرفی Shadowserver در اسکن اخیرش بیش از ۱۲۲ هزار MikroTik با SSH باز روی اینترنت پیدا کرده که حدود ۳ هزار موردش مربوط به ایرانه. این عدد لزوماً به معنی آسیب‌پذیر بودن همه این دستگاه‌ها نیست، ولی نشون میده تعداد قابل‌توجهی از روترها مستقیماً از اینترنت قابل دسترسیه.\u003cbr/\u003eاگه MikroTik دارید، حتماً RouterOS رو هرچه سریع‌تر آپدیت کنید و بعدش لاگ‌ها، یوزرها، Scriptها و سرویس‌های ناشناس رو بررسی کنین. SSH و WebFig هم بهتره مستقیماً روی اینترنت باز نباشن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e PingChannel\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-07T05:10:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/MnWeNcG8UXj-GlFahMKYsbQ7puOjkY24em1myKtxjPriocccsjv7n6FYBzzKq7jIMjAoJwohRW3zPf0bPiKvqsZZYr87xgR2V1oD4E6zTwAITpaEO4nfMIlhzSt6r-Q81TqM9dKCwqyNx_i3a2K_4RAHetQabdNXlAG-7JHFcKVdt5UC3srlIxuwhvan7qnVEPOkQhQxRJzhtfq-1wUpN0sPvoyea6Slmi3ES6PwLhcw1CIKSgXmhbVTbncj7lKcmyZrXK_MApbkfAAbCCao2EvzGLiY8dhrgnAWG9MxOakm_ncxXnBU0ohIPbMu6fQ_cTLyP9fgqSyGuZlcvkagUA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اپ Misga یک پیامک‌خوان متن‌باز و رایگان برای اندروید هست، که به شما اجازه میده پیامک‌های اسپم، تبلیغاتی و کلاهبرداری رو بصورت دلخواه فیلتر و مدیریت کنین.\u003cbr/\u003eاین برنامه چند فیلتر داخلی برای اسپم‌ها و کلاهبرداری‌های رایج داره که می‌تونید نگهشون دارید، تغییر بدید یا کلاً حذف کنید و فیلترهای خودتون رو از صفر بسازید. با Filter Studio هم می‌تونید با Regex یا متن ساده، قانون‌های جدید تعریف کنین و حتی از هوش مصنوعی برای ساخت الگوی فیلتر کمک بگیرین.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/mirarr-app/Misga/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/mirarr-app/Misga/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-07T05:23:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/QGNSDLzjX1bKTkzvGnivegJ2PKp-HTr33bsAJax3LtVm_UwPHxeXySi7RIHl9rCztZrxXHrRK9V2s_KuL2gCQ3bdMDckarVuKOVcPEANe3z99n5wULcxNR8gjgaaL0TFBk8nAeCzfXfwdFQN6XltLn5FNGMoc31YjS7E7-Y09mMV3vQh72nabx0IbgW0L4khuzcQRxJOR7rXNT0krdPO7L0MnpcrqfkSIVjRf6B5VhJiKZqBl0UCP3aJRNg64l65QR8KrZnqJOhKjjVFZACtDLkaqgKIlmh5ZOx5d0GpXb2yR3GwYjE-B2mdrcEPnadNnx37vkZuiCtyBhWDd_NIfw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "کاسپین یه ابزار رایگان و متن‌باز برای ویندوز، مک، لینوکس و رزبری‌پای هست، که دستگاهتون رو به یک هات‌اسپات مجهز به VPN تبدیل می‌کنه تا بتونین فیلترشکن رو با همه دستگاه‌های خونه به اشتراک بذارین.\u003cbr/\u003eکافیه لینک VLESS، VMess، Trojan، Shadowsocks یا Hysteria2 خودتون رو وارد کنید، تا ترافیک دستگاه‌هایی که به Wifi کاسپین وصل میشن، از تانل Xray رد بشه؛ بدون اینکه لازم باشه روی تک‌تک دستگاه‌ها VPN یا پروکسی نصب کنین. درضمن اگه تانل قطع بشه، کاسپین دسترسی اینترنت دستگاه‌های متصل رو قطع می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/Iman/caspian/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Iman/caspian/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-07T05:32:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/OEyk0lUnGghtfnTcx88yqWI-_uroy0BaaQPcFEDREMl_tNdHS6sNap1oN6WM5IxLBQLi4PfqP3R1L-HpaoOkuyoBXK8CV6I9LzTr6-BCxO-VpXIn7yol9E1DX8Jl83TFLjt3-J5ZuoGUuCX9xNiWAbCNagn3f_oO69GdwfCOrkg7qokXN_AA2pvi9xBWi1vhk2XSUGe1j3cKRJ0A3O88dAyoT0zZ0C040KNxq6gHP4X2p1y9-WVFBLeWli7BdnfPRTwiEB5mPJVpjwP242-2tbd87kMIIgZtddWu5GkVmKB7PZYR71Xt3b9dp4YYZg6TyWfuJ_CLGWmzHgckpTbHnA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "معاون ارتباطات و اطلاع‌رسانی دفتر معاون اول رئیس‌جمهور: طی ساعات اخیر اخباری کذب به نقل از اینجانب درباره رفع فیلتر پیام‌رسان‌های غیربومی منتشر شده، که کاملاً ساختگی است. /اقتصادآنلاین\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-07T05:41:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/BG5EWHFVFmP9ghHlT-MF1xZvzwAZPW3TjYDNBZhhz746C_YRBRoYOwqszpXBAGCXIhDwv38qCjCh9QET-4wq9PymJha14JWO5ZzjcQX3RlOc20n6T6htX_TQu37kzZynRdSKA4ZCtde2ojdeof6TT3Z2rYKCxwsIkZM_o1yWVyEANLX2KGmifd_TGnzUNlbg44cVO8xwBqM710WbjjwbdwpngqVLTAyjc6kNrobVQ5CcjwerI9CHrqSq18K_IxDZBZ0cTo5PObfp6CtjPAU438V50Wys7NCu9uosaTA7EYM9ipLygRfJpBNYQbFHbZc5RY5miTJCOhujozBHmR7vCA.jpg"
         }
       ]
     }
   ],
-  "last_updated": 1788741690
+  "last_updated": 1788759700
 }
