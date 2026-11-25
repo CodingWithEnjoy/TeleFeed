@@ -3,34 +3,16 @@
     "id": 0,
     "title": "IRCF | اینترنت آزاد برای همه",
     "username": "ircfspace",
-    "photo_url": "https://cdn1.telesco.pe/file/pDF1b6DT4c6MRMPD_xm8ruLwvjz0Av7OA50SQ1G41uZHquYNiGU4rtmQbD-ToCYH3jJPhRqEFuof4Ihi2HYVUYx38dfZPDodJHKoaGhxKlQSKxvM5nY-YFw5u9EbVsWz5vn88B4nv8JX-xeKOCFI0xxV53e0ILreToo9nZ7VQhwMq4MP9u7-Jwg8QDnAsEIfp-awUSN789TW9wLlIZMmmyhzGhL7y4Xw8jhtXCpsgwzxbE0kxts-VHsyhEmL4cvKcWbMe5jn4s6ZJQxtWtasbJLvw3D26NAzgidMOCzgIj2wABSdQkP8a4MH1XuJTmQTYQsMWtR9Q5lEC_-2ZzLXEw.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/FWg9vgv6oKoiDaQzHcW-vTk6F7ruy9HMzevMyMeSABaoh607WBT93qmkufh29648VJrPwiZ7eDT5p31xWjJh9-WkdjhbzjYpTNdgzosxiCA7o9LZmi4TksliJ4Dx9EbyErF5M3g0S2_NXq0wkPeOnGm1cYTjip4WuBmvBhA4ikB_yYj5ojiDkgzzOetR8IFKsKu4CLgmkv17e_Z5S3tVf6VMevOfBPciL-lBIdXqvedGbF8bDX7H90dl5i8JzWxQ42F3oJgir6MeAv_RCzPHjgbPCILMJN-3fJYkaCOExfDe7SHKxC0XjZxPUefJUFlBdIbKhtzW4RnTEw_6SxyZvg.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "نسخه ۵.۵ از اپ متن‌باز و رایگان هیدیفای برای اندروید، iOS، ویندوز، مک و لینوکس منتشر شد. \u003cbr/\u003eدر این بروزرسانی علاوه بر بازطراحی و بهبود بخش‌های مختلف برنامه، بیش از ۲۰ روش جدید برای عبور از سانسور اضافه شده، که میشه به اضافه شدن پروتکل‌هایی مثل DNSTT، MasterDNS، Soar، Psiphon، GooseRelay، XHTTP، FinalMask و AmneziaWG اشاره کرد. بخش وارپ هم بازطراحی شده و حالا از WireGuard، MASQUE و AmneziaWG با قابلیت انتخاب خودکار نویز و آیپی تمیز پشتیبانی می‌کنه.\u003cbr/\u003eامکان تست سرعت پروکسی‌ها، پالایش هوشمند پروکسی‌های فعال و انتقال سریع کانفیگ از گوشی به Android TV از قابلیت‌های جدید این نسخه هستن؛ همچنین حالت VPN در نسخه‌های ویندوز، مک و لینوکس بطور کامل بازنویسی شده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/hiddify/hiddify-app/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/hiddify/hiddify-app/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-11-09T05:00:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RypsHoE4H7KppIbH7qpAkB8VxDB2PbpcOpGOLrnTvA5bcEx9CGqGtKwZw3G3OSDYU-ezE-RN2CK1HRI9M2fj5lCWRW9LM1UP1NHEl3fCHMNFyPd3AhtaPF8W174lrhKOTK3BV-a3bzc85kPGO4C-7WOOA8eQvY_gqjbTVGEJTJri8lgBETtQOMQQvm0xQdQ7456HP-53lJu5hMStxuzaRCBDwsUV1GdWVhCthVzsEz5Alxyb4w9WlK9Z13LS4qItLTkk9_zhCHADA5b-QROObvk3XBmulL_ihh6jBB6T6rzsPDZHcDpKRyUeOzCu99AUy5TiVXvwBT8C3hdJQ0lKWw.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "اپ متن‌باز و رایگان Keqdroid، یک کلاینت VPN برای اندروید، ویندوز و لینوکس هست، که با هسته‌های Xray و Mihomo کار میکنه و از پشتیبانی VLESS، Hysteria2، WireGuard، AmneziaWG و...، انتخاب خودکار سرور پایدار و قابلیت Split tunnel برخورداره.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/Lemonochka/keqdroid/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Lemonochka/keqdroid/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-11-12T04:21:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DTfWPKrayW8WfJLJpklIgPTqxbUDOnkHn9BJN2x3beH-QCNnIZHBUbfs9un6hGmQLZ0R7_XnhoWVElIEciJ3tUAZiPviJQ1di55v5uv5hQk1qCutlP2FVq-lwPj-eBqBHtMTqpp2JUvPIBySAMlK_8TOJRLrcX3LZQwRfq0Kea1K1qoWVS2uOoMlo8FO10XUFr9vN1NUsDhQj9-IkRnaZB3Ei_W3-MP18HSKTqQNGhG1qIimdMpqmN7CiD0PfqOfQb-eAiwHVsY9ksxfTooTCju29bm9Xac3FwZy7kFIRDI6CIqiA0F9k9X21nAAjzIeESnQ7BvgmQWGJPKMRR_hMg.jpg"
+          "url": "https://cdn1.telesco.pe/file/EWIWnK_yzmlsFjvGbeOap8eYVQe8F5HImXiYaV8vxQ1j4CzDTpufsIrKrcAt5wtTGFWShCpbFQXrDroZtmsNKVqhfj3Lo8avFv3tNswsb6VV___JFyt2g76ZuRnYfkykuNkM2aWqFq9t1plu2Pk8vYaN5YrtOGVtonMC85vnNDPhhkQAxM17_FaiShRG1Lrizb7f9xhUCWeLiRGEqdcOLtOd_2rElF_ZVVFC8MiZvXNagiFaHn4khtk_NPtc5gtw3tYYapnUd_wKgbXc3CZB3KARmf-d5BrVd4QfYIxANEAvGlbZWAs3A5mPi_vEqjgyOBCHgHODbMIH4-9dF-05hg.jpg"
         }
       ]
     },
@@ -48,7 +30,7 @@
       "date": "2026-11-12T04:34:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-11-12T04:55:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/adO68YWFgtURsXcWzrOB3-MR3IMcUCA-yssyfFVczwqjdu5Lhy3ZCjXldSdt2OsuFglL8p9kBleDuO_iQKRjNTkRy5tgGBk52oWXnsNc8H-wpABx9J_oWLVIcjwwkuPr_FPuvdt5GHfKB8RdUjEYjJf5Dy1Z9gFFcFo9t7-ckcXTeIERCWHDFW9wqBeDNvUqVHEDn0skWzuSySp9eTWVk7mtr8dF3z5qibTnRI7XA2hIE6hLLQ49lOKPUq03nSx-NJyiFB--MIz4TXJTOMLOR8X-m_8NdV8tnx1TWOK2_V8X7TMTll-SlbK_rkVESf_FYXLZoG57z2lmtpkYqm8hZg.jpg"
+          "url": "https://cdn1.telesco.pe/file/oMrG6c2n8w2yCfbBZjckesMZMn59QoHWjUOS68MJ7egnCcifs0VXoLTmCRBlgrDDkvwhpSJtQMxBBfS5qhZ-b42C0dM_gZti1ArWQKsKK4nd4CVsUuOC9abjx_cg2fP4jODypSMs4mxoyqxsDyuSLjyQvraYc3t2l0c_ZVIUvDEX3GqhhGmMPHLMPRLyQ02b4LJZ86fyIBIjS7zwAaVCISLBskgWJTKsSVfr1LTudY5y1B24kY23mY9yh7gpDezbjmXN2C0mwYsPtfRiQLXKMlUC8r51ItR9Ordl7Zzv5ZWq7CElMi6kNwIeOI9QqonnH7ZKIidMnmZqQpiB9uaefw.jpg"
         }
       ]
     },
@@ -78,7 +60,7 @@
       "date": "2026-11-12T05:01:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IrVh9IWwDQASxSssRNdbR069VKq2QSnL_YO9p7xi-rHfuemI54b11i43Dt_QHo-PHZFEe0XDZb_fCwJPI50GKbxK4PE36TBeXipyeKP38FvbbwamPaWiwPo3vTac1mKKmcew2cGCtoLFaIQhm9m-V3UzKWFynM8JWb-zgClHaCN5aQtNk8M7p5m0eSS-8ZK8YewUmlKuBRfWJggHJ29SJWbTcDI8sMN7qGn3CRTEvke3HJRHFo2y8fOzyr1bAa0HXnlE8nT-f0fZr1L_4sTODxKIddZFTpyxC1-C-rCm8_0zv2uuWLEw8EsijrdDffPu3KaaPGYdKwCguKcxgPnQdw.jpg"
+          "url": "https://cdn1.telesco.pe/file/hWHKT5mGv6efncBuP4GoCAmgIWP_zKvPdyjrQqn3THWfxmXJqpFWI9rWIWAzJrRehIohtbDf3dWhnzbJZ-P7P6cjlPSoA19XG7je57yhnQG-5TA8v6AYd52FfCvNqUdLy52nN_Ng-O1oPkKlkJN1AAJzVX_vCZPwytH8RrSdftDzi4xWWv_n_f-dHi7mQEFFy8-3yAuSu8s00tXiLxc-LIsTWE-7zaNpdT-llsQl5Z6LrZAsmBpGdQqsqMd7txjLUmRiSaGd4IOpF4Kerg9OA4BRt8OEc9Ko3rtg_DYT-EScSG_nvaN5-3AzBi0qDUkzg0akTMe21qFClqtZFPJ1Pw.jpg"
         }
       ]
     },
@@ -96,7 +78,7 @@
       "date": "2026-11-12T05:08:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +86,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/VCCbBPyLhGbPTdjNIXsbOA5OdOJMdm09NgLwjaYEAcx8xPf6x_mSWt3ckTwvouVVkO3ASeyL-WSw1dwKzd1Kl_LY3Q1eaCepIt5BEHxGYOHAoWGp8ovMQLxg8NvzsKHeuhv4y16n_6_uZCcmZqa9WBLP-EarUCOv9QtZt6QLMfB6u91_yzt2WGXhJsHxjv_1ICAUt3gbHy0_nL676RKGXks8Z1P4CWoEd5eyT_X_3ORoC01-G31pwBNuFak9maxpFEbigVussPqBBqQPFq1F57dh0bFv75bMDPfCtQI4IgsrWfhz3rSBKO0Vm2Rr2kiMVZ_VAzIlYEwlO3f5S2br2w.jpg"
+          "url": "https://cdn1.telesco.pe/file/LYO-sHFyeuyGy6U3kDTUvYCmyKlZhGauGKD5uqA9lndkdrFASlhMQZPM04azUklE4OTvCO9o-Q3WgHDu3FKMWxS7zrEuLUURrEhqhdQFi_PAjJCucVT9PwjIpnuMIj9gDqC8Xf60hMFulqi9iE59gd9Og9AstOGznKswjuANNl0kv9-hDtg3vSpGe1vKPqZvOmurys6r_u7tZuGrEZB18zsyNj229yGcJo0psV8xWqumDcRJ0oT-GJJkRch-6gBHNBRiJImsxxFm7DBKjktGDEb-Q1QB9OkbcXeSihV3sjZ2xmiWTDpmO-X7_YfNkWQQeVNBeJHaY58K5tn0PyOO-g.jpg"
         }
       ]
     },
@@ -114,7 +96,7 @@
       "date": "2026-11-12T05:27:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35300,
+      "views": 35900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +104,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/cEr57kTB0jjr7BItn6vy-Of7a0325hm6aH5003BaPhB7-m44vUr8a_8JmlHQD7S7Zg9-g1cDJo-GAccz682ShDqrBxPkUaDcRu5B7cBoNVdBZlm4MuSZ9N15c5uBRaRtRUhKAULxyMaW2ceyzVld8lSeNDh2SOXCDT5J9iJ5xF88mF9cE-5v_6vqntlcDKSRosuTXtyKiNwMhuEZJLfN4Mt2vzohLQUiyjljowidJEeKi4ue0TE7f8Gc9Ng_QlMHgd8WxoVqJnuZwFlftZxo9vLuFr_1PiEKSXE78yuHI7iCpa_K85u-B_exYcnR4OPoSqaCSsBP00L731SDrscdfw.jpg"
+          "url": "https://cdn1.telesco.pe/file/ayNKjp6F7L7DjZkZbhkHio6azJDNyr8KSAO5TKR9zwgypu8hymjjmQ8DvPaxIqso4_Qvvr-U4AgXW3GXgqUVG_n_0Nl-j7diwF1CvoQEJliuZI_cbXNmYKdpxr_kJyo-9Eq3xscnUtaxlOOYw3CXGpZ7Q9mJH1P7x0wnAXWhlumXcdQgUXc20PvTchShh4o9s_jlhnHzEnfl2peiUor-zm0jT346MfH_G24DxigQEmcSIvnKAnKEJdVoYfOK5w8duSB5TXXripSM8z13e57m7E6EKFtSVmKT68aVX37-YlZb57yQahaZHWmxzcZfe1px6aoqXHzMOTOtQh05cyTC-Q.jpg"
         }
       ]
     },
@@ -132,7 +114,7 @@
       "date": "2026-11-14T08:16:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
+      "views": 31800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-11-17T20:12:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +144,7 @@
       "date": "2026-11-17T20:25:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +152,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/c3-tDVDKa2TccCHi2vgUA9c3dYF3_sOknTjMwQsyl5lvrIEinFK8pKKr-jsHcMSSdMjfEGzQ3IYMKeER2nupoX_bc7QhM1Hw72z9gtVlFdCODvrWWN4CUDkS2taZzAEAo6_FWHWiqy4384bLH8Rw6Ng6NQzxWQb1HlJgmub2EljLblRDRZQZ-RbWw3s_lJu7g6XBT8bWpx0Aa5B8qtdFzUjiBVmDo0br6a1jDUQle1KtlUl-z943kDT7khGlOjxczkpsp5Joz9wueEn8Q8otiFAoYGcBO86Pt3lNEc2EQvmcm9Sjl76BE1hm-1n3pWcA8_Sf-9IV_M2XmlY3Z8bw0g.jpg"
+          "url": "https://cdn1.telesco.pe/file/h0OHlJHZkXN8VwNd8mvBt9cdEFNsz9H4QbjHuPX_K6ZpM8RbUIgrdxwttvm9B8pQLRh-oiP_B6AhUwHjgBaENl-IQRHMYPmLbPf4XCtAhRfCOM6cepdP98GTHVYvln4qxjka3Qg2DGqNMalJ3XEDgYUba4s7iZHPw8iGRhogg757DmsPM5aZUd8FksviXse1Ogq_xWxYbluNR2L8LsEAYw7t3HcI9i-YtkTtHQn9TPVn_ecQQI6vTSdlmryeQiBVNc_saKCR8Un62VxJ1T2ztpV5vzqRGHg4xn2r1Re846hodGo2WMG1hvNdleVEAPR9qqmERsI0CYjeTn-b4FUXdA.jpg"
         }
       ]
     },
@@ -180,7 +162,7 @@
       "date": "2026-11-17T20:39:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +170,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/toVL98KQC7GsDSjGSXJ1aThSRIohBvAigZEF35SB3xfRhBGHaPzL8x4bn6By0-j9b-Cdk4uwIegrCYGJuaEKknu0xdYhBnL9vnCHf6Zva7InQWkPfddOBYwUw5eToY42p95_xpC6bw-EiP4XcB2JtwpSH0bZQUwgkUte4A-oMOx9rgRvpWZf7ll3I8F63UQ_944T8OdMwoiUbRf2lAO-TWm_BMpJPeV_ZD7OJgVRXS2PzldEzBuXbXAFfDloz-oTC60Hjd1f9KqEo6hnwpnq7ZanFb5KVqqd6xwj0oURNN23ST8xCvYWvsAm1O2zfPxVq1cFMlY2Yz0Ry2aca_vKXg.jpg"
+          "url": "https://cdn1.telesco.pe/file/oBLg7LZhNqTjg1nTSNXWKgseodflijYSz-8upQ4oNlz20FJWGvl9Xag-2-boResIYrE4c28gjEsA_jdLBzOtwc7l-FkmVAdGq3qQNKQ80-BTMTP9ZzDgMSlP8avblcocsuSyGNWzATNA1gFXm96M5vXtoGI2-yvhShfQFKvux45NKbXtw_k_mr70-59d9XcFgK-DIBYyR9xBBZ1BkpkzOLASBvmITneqaqYaYVYqRy7883aKgFyNbBYmd3nC2B0UBP2h7xWEPrPT6hGuQInJPxz0OXMG8FA8DXQZQ75N-48cmPNWVFtHSKOVWtk7Gpx_pZAcDKH3MMIadMdot8FFAA.jpg"
         }
       ]
     },
@@ -198,7 +180,7 @@
       "date": "2026-11-17T20:47:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +188,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IGEFXW2x3AwsV6u_9ppXJvgeHQsFJJD0C9VDPFAumbsmieP0Dvo9iXsEz7uSK8T0l2-KCfisdua5LwMw-oRRNFWnfyO521i5W2kSV6HC5l-sxXjI2e1A_mCjTHXZOw1fzQiWXjPnI0NiKF982N3cTq85AAjTsKFOgihbDcQkIPqqpICY4_o-gzkPF4vzWAKuRhS3FJYhum3JPvmTnoMsKZhRnX5Zdgd5Hz2kl2qDOxxR1pxo_ztkUml9g7-oBImsWlcQsX2YNGGLq4VNKSATBoxJHTy0zX7l6DbQEfMNoqO9UmdbhUn48edzkzTrYpBk0uhad_fy3qdHbwIn54Z1uw.jpg"
+          "url": "https://cdn1.telesco.pe/file/BIP8dXQ8wVBkvhOauaqJClL68vFN82cxZr-bCDV_Y_l8NOZASLkJjjWOw0A8-6ZaC8eQzs4eLUrTIdbP6f1s0DUt5ymJJs5A7zpc-PrGwOfj5pVKQbDJ6KYnN-qs2IQopqqQ94Q1qEWuqHu1bTYBRt3CCS9_lORKIsZ5MO7d04SVvbzndDAZZyRtob0LnMXQ-Ej6NnR2s7GI_ML4owxNV5-Hpbpb0g-69ihPKTNXtMGCMTRR6PuJywtnla2zB7Zi6QObSLwPMjAkl_mCIX5aBmUwdBdPnD0tDj4OZYuR7GkHWE22tUveXnqVIfI9cQYNc-Exj4FvAED8Kr2QZ9lfnA.jpg"
         }
       ]
     },
@@ -216,7 +198,7 @@
       "date": "2026-11-19T19:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +216,7 @@
       "date": "2026-11-20T16:57:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +234,7 @@
       "date": "2026-11-20T17:11:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +252,7 @@
       "date": "2026-11-20T20:14:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +264,7 @@
       "date": "2026-11-21T19:09:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +276,7 @@
       "date": "2026-11-21T19:16:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +294,7 @@
       "date": "2026-11-23T20:22:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +302,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/aoZq2lzXmsQqlBfYPrsq_QaSLn9mhRmvbpZXn_LekEAQ6M_ZSGJy2GTVIksaHZcc09ZQoR6BElHBg8JqEuYlYk4Mz5XQUWDkVzcwSBdd0XdliJ03-IIyD7udUXfpt8uBZEpvSOGQkldWnsl0vDqQc1b1eXebk31P2-S3u8iajy9pfFZAo22iiED9bN-Hl6QNFUe2KOiTdeayMrJwSbdUJUatWlka8qt-EdH6iaD-8g58WRd9PbcY7llez_YJPJ0L4tfQBIYIc_sNs8gWIs_qNaYqwGqw5YwFNaYKBw1Kh-A6b1h06XRG4k94k9zytfC6G2lmfetjY4BxZfWMZGeWRg.jpg"
+          "url": "https://cdn1.telesco.pe/file/QyxFh1TtFTwcXqcx3uFWvHtGRdL6e_l4gSb9mGpaxrCAvmAOw355K8PNjjOUCTSLHFKrT0hFpQhH1jXwzvKfvsAE--XYnucnwW-JvuB_5fmPcXZYeLIJbBW3SyyCLz5Fu9uIrvB5sK-l0XUhUxXSWxMsAHuoO9vn7EpV-bkjsJCXBhTSAonH1xeEu9hVN69O0ihXUquWxtbWw1nIUZeiKJEHAP_ai_4sREw-oOjRUeh8JUJTW674roRyeMbxRVs5QuGYjimC0T965oAW-l1L2s8OZUBOsEMJZJ5yE5-1cPySorjyT_WOAZYj6StDAaRxNcJrO93BSIha4VdFjuxmKw.jpg"
         }
       ]
     },
@@ -330,7 +312,7 @@
       "date": "2026-11-23T20:30:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,10 +320,28 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/j3E2tWvjZU7iIJHccFRagCq4R2wqIE_BINUsyzOQyDrllj9EjmaVLcolm0wj1FYxY0zL8S_mFRWMCAN73Mc9nwWD1lPp6B9yYOyf9wV9wbAJMmziW6utSyViwTgeed8zxyj5sB3AZ-oxj6B5R0xcyqsRVhFEMLS48y8tom8u8783yaRK5HM6MBZ_OC4YRf9DwIw2gvToiGVbP8-l3_HI3kG27CW47d4fbRa-2SrpiS_KM6Pl5vEcGRU7fNy48EweIUHqEU6HlNfi4bF_I8zX8Et8z-ca8MQc8LT96LJYci6vClNRpBIxUyl-FDRNyeOGc_xZ2J6_E0I0sIEHL9TXGQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/pZdISBRlKXbju0A0S26hPb-eHlK_4v18t-WOXP7ALXe1UmyVbqLkIULIGGC1cxaHeSm4wW_Rtk-Lm-ArlAM9PyvgOrdxYouLX8FBznnAm7E_41E7KPQ-xsWZ5STVKZDM2Cr4xsle-xgpUpWMZeRHRm7GROvf8YIYUVC-t8bUrRVNeoPcOxxJ0NfaD6ipJp_PduyTXAxvukdDl4lBbmiruiG4hkk3NZDt0hLNicK1N5SIGriuQ5h_tLAssMv43XjUfMVmuQ3Jarn0ONumY2IgtC8d2Igp9SKUFZ_9jabml0uSH0WUTHoXuzSa4b8jXE7d8lmhTSZdCZA4q7qlKAzbJQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "توسعه‌دهنده NekoBox اعلام کرده که این پروژه بعد از چند سال فعالیت، رسماً به پایان رسیده و دیگه آپدیتی براش منتشر نمیشه.\u003cbr/\u003eبه گفته MatsuriDayo، خستگی از سال‌ها توسعه و پشتیبانی، کم شدن انگیزه و قدیمی شدن ساختار پروژه از دلایل اصلی این تصمیم بوده. فعلاً هم برنامه‌ای برای ادامه کار نداره و امیدوار هست که توسعه‌دهنده‌های دیگه ابزارهای مشابه و بهتری بسازن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-11-24T20:19:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/tyl5HTw1dvtxEjcDSRCY2EyueNi6SF_I5HGLg3uj6nSWuqZLkeduDvpZ39OlzKrOC8F1sDvJ-wHMFAqfnn8xmz7bnQkdzUn9bCMvp1UjhJblLo8k7c22piIRJFEEHfaQ6ADkpwSIaxLFX4k5lGRGhnkD18kGKpFsyC_IE9Rj1ab5QPkk9raT7hqqQ51wM-TKpKefj6tP3MXP41UnFae9wghuWo1qz2wBZ6vb_tMdJoYkdkCm-N02wsSV-7ntc8Dv9QShNbSpNdyl5V_Nh_dxsqsvW1FwXojsrB7hWI3C56fDiKon192phEmOAkUCn2EkR7xRO7XmsGXhXwVplFVxXA.jpg"
         }
       ]
     }
   ],
-  "last_updated": 1795545521
+  "last_updated": 1795575373
 }
