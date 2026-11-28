@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "هسته‌ی رخش برای ساخت شبکه‌های چندگرهی و تانل‌های انعطاف‌پذیر ارا‌ئه شده، تا ترافیک رو بصورت مستقیم یا از طریق تانل، از هر تعداد سروری که در اختیار دارین عبور بده. هدفش اینه که به یک سرور یا روش ارتباطی خاص محدود نباشه و حتی روی شبکه‌هایی که سعی می‌کنن جلوی ارتباط رو بگیرن، به کارش ادامه بده.\u003cbr/\u003e\u003cbr/\u003eپروتکل اصلی رخش به نوع اتصال وابسته نیست و هر تانل از چند مسیر مستقل تشکیل شده، تا اگر یکی از مسیرها قطع شد، جریان‌های در حال انتقال بتونن از مسیر دیگه ادامه پیدا کنن. همینطور هر گره هویت و کلید اختصاصی خودش رو داره و ارتباط بین گره‌ها با احراز هویت و رمزنگاری سرتاسری محافظت میشن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/CluvexStudio/rakhsh/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/CluvexStudio/rakhsh/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-11-14T08:16:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/PIuVXQ0kQe1c0kibpgB1-1LRSj7b8tEjDYGKFQX65K5rk0SEdg_vV0ZJWWWcOGWnRLSi05LBjsxZH1hoVPImrnMKhB6J7aiMbJzMHmRM4Vx_Ui7jVA-0OKgOgYe-zqxAw2tqBTPsXCfbHzg5slQPltmaEyfdWsvVaqbhLaDNKi250r5hgBWJ9sr2SHTCyCPVEtXiKMaYA0-hrWkSQqzwt3CuCiGmsdtBXDod16B1fwpB9__NomFPz8WGMO7cdJb74NIMySUYrL2fBoz-mAOBl-dVn0SkFLdv0MEkCSvCRmQrNxZb4asNWt1eP35kR4_jqH6j2bXJcLsXzyUuwMlhEA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "طی روزهای اخیر کاربران برخی اپراتورها در ساعات مختلف با کندی، اختلال یا باز نشدن برخی سرویس‌های بین‌المللی از جمله سرویس‌های هوش مصنوعی مواجه شده‌اند.\u003cbr/\u003eطبق پیگیری‌ها، بخشی از این اختلال به زیرساخت تحریم‌گذر شبکه مرتبط است، که ترافیک برخی سرویس‌ها را از دو مسیر آذربایجان و آلمان عبور می‌دهد. بررسی‌ها نشان می‌دهند عملکرد این مسیرها برای همه کاربران یکسان نیست؛ برخی سرویس‌ها روی مسیر آذربایجان و برخی روی مسیر آلمان اتصال پایدارتری دارند و هنگام سوییچ بین مسیرها، ممکن است دسترسی به سرویس برای مدتی مختل یا قطع شود.\u003cbr/\u003eبه همین دلیل ممکن است سرویسی مانند ChatGPT در یک لحظه بدون مشکل در دسترس باشد، اما دقایقی بعد همزمان با تغییر مسیر شبکه، با کندی یا اختلال مواجه شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e IRRadar\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-11-17T20:12:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-11-17T20:25:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-11-17T20:39:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-11-17T20:47:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35100,
+      "views": 35700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +78,7 @@
       "date": "2026-11-19T19:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +96,7 @@
       "date": "2026-11-20T16:57:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +114,7 @@
       "date": "2026-11-20T17:11:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30700,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-11-20T20:14:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34500,
+      "views": 37400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +144,7 @@
       "date": "2026-11-21T19:09:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +156,7 @@
       "date": "2026-11-21T19:16:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
+      "views": 28500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +174,7 @@
       "date": "2026-11-23T20:22:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +192,7 @@
       "date": "2026-11-23T20:30:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 29900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +210,7 @@
       "date": "2026-11-24T20:19:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +228,7 @@
       "date": "2026-11-25T04:58:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +246,7 @@
       "date": "2026-11-25T05:05:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +264,7 @@
       "date": "2026-11-27T08:36:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +272,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/OEE6yW-SLpjeee83N0CFhpYDDqvcfCOL4xlkGR_xzWmkDuZm-q-Kk7JJ9lkd4_RLpnBPP7uv0U9oBckGz6ptMzi2EU2hMgGHAGLGoVNCBbIrCqYi24lGUMoH4JmdYGmdgV90rxDcimzal-SiazP30sE1zVlSKSiLfrEYdsvP_kFLdnLchzD-AXOGkTVfw3Vvvr1iWY1V8vuQQxZR-lPRkUM0WCcecx4v9xEgFufRWRDFFlCTnvdZdwX6_0PPCvNQolmThCWdIryGWlUZCLU9Q43Ad2I1OjDzP1fo7rUvtDh1gbFbFHxaTWXCmOQvQ-EjiduOzHHxsE6ksAUDMhZzxQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/GF1FdQQREYw5fKJ04i-mWCZnGo69qeFfoeCV86G1_2F54stfAqJsIe0oBqQkVHg649tNTv01XFJyPZArs07uFwyUIwNVPDY3VZg2n1e93C8mnkOxcVIPMolmghim2iauMu6VPKbK7zHq6qzQzqN4bTezU74anAyng5suJxKQAvHL58G1YEadxXXC4NMYY-LFOFvMgwx8bxRUY-pus5IrTPT5usS_vS71ELT7-XMAR7-w1qzvFhnv_zIQ_dRPf3MSiASTtLktEB_09j7V68aAMKaLBCHqYN6_0ZZosxUK3OiMU8atFoLelFhG9cEz9xawc8_pfkqfiHOsZ2bcNhYpDw.jpg"
         }
       ]
     },
@@ -300,7 +282,7 @@
       "date": "2026-11-27T08:36:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +290,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/D7fE5BYSQ98K6KFUBtgJ5OmDV46dovHQGgnfeJMxFUYNbNYkkU3IoAwYMW62ME4epfUaXNVtUD7o0TlcxiEenzEfzzmMjNYXdgJp9gOuNPCnu_tMeNgVKlkwGH6Ra7QhY27cFOMgjqPpEJ5Z_LWhqvYJ9uN-3tFqeFLO5WXSmGYaH0fSjw--PVALnOZ3pXC3LulJfDYyaLfBe6LzdGcfTVOSv9xAy60mPDKx9fbmNQxnXsSYACjEs3o03QCx_KHUXtgeLvPUcytRbzOzIu_c2LGiqXzsIYrHRseJBYJspHRCxgelgINTJQlmU9N9TnJFbSt5bFVMftW4W0p4t58G_w.jpg"
+          "url": "https://cdn1.telesco.pe/file/inLOFyGrwO_NwV3osagw0qhK340XYDguBJ9NkSv0LMA8mYRFS93cAUYfFVfMsO6AG5yk77my4QkSgDxjz6rTOrBazD1-89S1TrDi1Jb1fb3WScpBeGKkWYN6fl5VvTC_jfc5yFqLhHO5KZnY_tr1EARebnz8mZyKXda7GuHMDOZjYhqJ4A2DEZF-pKyOwAIMrlZowuWw-WYZokgtVcOIzF_MjtD3OBkW_j4XmraCA6JxL8G6AIB01k_76ttvbZYYZA1q1YmGw6TleCxiZCjG0Ockevg-utuZT7MGM6OjUGfm1a2sJ7OYuykhoBBELS6nL5J0e5ayQPfVzx2hqOpWyQ.jpg"
         }
       ]
     },
@@ -318,7 +300,7 @@
       "date": "2026-11-27T08:42:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +308,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Ex-CbXOkNgAyC6N0GXSQtEJVI_5XuHpi1kB7b9Iu9TLNS0twusljB52r3xxIGfSfGIhyEVDz8gVEgruSrqIyKXoWa7YKxnZnecXTPTpBX91iEx6UjFvmagU2ihbQ-mmuuJ4-93bD753o9lFH675RuLCKlwEsGXRsvQWr9fHNBq6ytDWOP1zDn7YqG7zkswtJ_oiNjRL86KTEDey8qw8AhibO8MoJf1cEdrlCG59CeKQ9sX2KPDGG55WCWuT5KmqS4q2hjfsSFGG_w2qAdscUVNUJRNdvhziZJH2Q6F2mBiNsZKM0zZNnMsaQKqj_NHrVoFf5xPHvcCFncsgRi7DS1A.jpg"
+          "url": "https://cdn1.telesco.pe/file/mtM7s9GCvNk113cxomrp7590MdTxXRE_cglrJzA7qwNhIW-HQDAWuqfyP0h0exWXMHjbvVwrs0LnT3jqim7LcrBvDsCpxGpEFxQ42ArIcQJmJD23NnvaKUP5NXTSMS4nZDenILq4Lpixc-g4FJUB1BKMVajtnwZvZjQeqx4PVENp0aQSUOQMn1NBUlrMduKFu52cEJxFlosE716SHlTsRekHuTj1jd8gCsc5vkWFdDPsEYzgzko8jXjXvrRfqfUGuSkvJ30tZeMG_82dtWnp9HRtN0ai349vZJLR_Ly4GP7-MOrV5cOQD4vgzyFSNM4DVlgDtASr2J5nzHIS0WjG7A.jpg"
         }
       ]
     },
@@ -336,12 +318,30 @@
       "date": "2026-11-27T18:41:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 16400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "IRCF | اینترنت آزاد برای همه"
+    },
+    {
+      "id": 0,
+      "message": "پاول دورف با انتشار یک هشدار گفته کاربران آیفون در مقیاس گسترده هدف حمله قرار گرفته و حتی باز کردن یک سایت آلوده هم می‌تونه برای هک شدن گوشی کافی باشه. به گفته مدیرعامل تلگرام، اگر نسخه iOS گوشی حتی کمی قدیمی باشه، اطلاعات کاربر ممکنه در معرض خطر قرار بگیره.\u003cbr/\u003e\u003cbr/\u003eاین هشدار ظاهراً به گزارش‌های اخیر درباره حملات وب‌محور به آیفون‌های قدیمی اشاره داره؛ از جمله کیت‌های اکسپلویت Coruna و DarkSword که با سوءاستفاده از آسیب‌پذیری‌های iOS میتونن از طریق سایت‌های آلوده به گوشی نفوذ کنن. اخیراً هم یک کمپین تبلیغاتی مخرب به اسم MoldyRoost گزارش شده، که از همین روش برای هدف گرفتن کاربران آیفون استفاده می‌کرده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-11-28T10:55:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/o3lhxWsC2IPut1bYs_04ogtFG_QdcxZvJeFUC8_SKRn6nXXw2i_j1DflYNaFy-AgEnklcyO0G66oA25xDIh6OefiJUGP_ZDpgK5IlsdiVt9KGawEERQMZjieGcMpYxKOcx6_iHUR7rX5JYrqd3BuTmyRUEqzyJEYULrKm4DCEQrCmlo8s4Ua2NjTzdm-qd0LGfkgXAmh0qDBmaOcRDUDdQsj7TQGE7GNj1VuQXhWEwSA-5mUN78JHVH9PXdT7PahvXwPMaF1PdgFSzWpcLYRWvWRotQ-NNbKzjIXEOJNGq_8f3AIXsyvF873hIw79oqto1MFAIjav4vshOM3gCHPxw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1795841518
+  "last_updated": 1795874024
 }
